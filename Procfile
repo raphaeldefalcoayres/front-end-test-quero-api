@@ -1,1 +1,1 @@
-web: yarn json-server db.json
+api: yarn json-server db.json
