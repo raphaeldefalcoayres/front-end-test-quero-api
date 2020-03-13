@@ -1,1 +1,1 @@
-web: json-server --watch db.json
+web: yarn json-server --watch db.json
